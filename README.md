@@ -2,7 +2,7 @@ Knights and Knaves
 
 Python 3.12.3
 
-Project done in the context of HarvardX CS50AI courses. 
+Project completed as part of the HarvardX CS50AI course. 
 
 In a Knights and Knaves puzzle, the following information is given: Each character is either a knight or a knave. A knight will always tell the truth: if knight states a sentence, then that sentence is true. Conversely, a knave will always lie: if a knave states a sentence, then that sentence is false.
 
