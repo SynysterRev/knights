@@ -9,3 +9,5 @@ In a Knights and Knaves puzzle, the following information is given: Each charact
 The objective of the puzzle is, given a set of sentences spoken by each of the characters, determine, for each character, whether that character is a knight or a knave.
 
 We have to determine the knowledge for each puzzle depending on what each character says
+
+[Project link](https://cs50.harvard.edu/ai/2024/projects/1/knights/)
